@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Telegram Badge](https://img.shields.io/badge/@farhod-shuhratovich-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Farhod_shuhratovich)](https://t.me/farhod_shuhratovich)
 [![Instagram Badge](https://img.shields.io/badge/-@shuhratovich_uz-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/shuhratovich_uz/)](https://www.instagram.com/shuhratovich_uz/)
-[![Facebook Badge](https://img.shields.io/badge/-@farhod_shuhrativich-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/sukhrob.nuraliev.9/)](https://www.facebook.com/sukhrob.nuraliev.9/) 
+[![Facebook Badge](https://img.shields.io/badge/-@farhod_shuhrativich-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/farhod_shuhratovich/)](https://www.facebook.com/farhod_shuhratovich/) 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
