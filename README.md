@@ -6,10 +6,10 @@ I am a mern-stack software engineer specializing in building high load services,
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Telegram Badge](https://img.shields.io/badge/@FARHOD-MERN-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/farhod_shuhratovich)](https://t.me/farhod_shuhratovich)
-[![Facebook Badge](https://img.shields.io/badge/-@farhod_shuhrativich-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/sukhrob.nuraliev.9/)](https://www.facebook.com/sukhrob.nuraliev.9/) 
+[![Telegram Badge](https://img.shields.io/badge/@farhod-shuhratovich-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Farhod_shuhratovich)](https://t.me/farhod_shuhratovich)
 [![Instagram Badge](https://img.shields.io/badge/-@shuhratovich_uz-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/shuhratovich_uz/)](https://www.instagram.com/shuhratovich_uz/)
-[![Telegram Badge](https://img.shields.io/badge/@azizbek_yunusov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Azizbek_Yunusov)](https://t.me/Azizbek_Yunusov)
+[![Facebook Badge](https://img.shields.io/badge/-@farhod_shuhrativich-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/sukhrob.nuraliev.9/)](https://www.facebook.com/sukhrob.nuraliev.9/) 
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Nodejs
@@ -37,7 +37,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farhod-mern&show_icons=true&theme=gotham" alt="farhod-mern" />
 
