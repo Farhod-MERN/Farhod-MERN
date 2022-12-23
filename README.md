@@ -6,7 +6,10 @@ I am a mern-stack software engineer specializing in building high load services,
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Telegram Badge](https://img.shields.io/badge/@FARHOD-MERN-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/farhod_shuhratovich)](https://t.me/farhod_shuhratovich) 
+[![Telegram Badge](https://img.shields.io/badge/@FARHOD-MERN-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/farhod_shuhratovich)](https://t.me/farhod_shuhratovich)
+[![Facebook Badge](https://img.shields.io/badge/-@farhod_shuhrativich-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/sukhrob.nuraliev.9/)](https://www.facebook.com/sukhrob.nuraliev.9/) 
+[![Instagram Badge](https://img.shields.io/badge/-@shuhratovich_uz-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/shuhratovich_uz/)](https://www.instagram.com/shuhratovich_uz/)
+[![Telegram Badge](https://img.shields.io/badge/@azizbek_yunusov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Azizbek_Yunusov)](https://t.me/Azizbek_Yunusov)
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Nodejs
