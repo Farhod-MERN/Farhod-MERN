@@ -7,7 +7,7 @@ I am a mern-stack software engineer specializing in building high load services,
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Telegram Badge](https://img.shields.io/badge/@FARHOD-MERN-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/farhod_shuhratovich)](https://t.me/farhod_shuhratovich) 
-[![Instagram Badge](https://img.shields.io/badge/@FARHOD-MERN-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=[https://t.me/sukhrobnuraliev](https://www.instagram.com/shuhratovich_uz/?next=%2F))](https://www.instagram.com/shuhratovich_uz/?next=%2F) 
+[![Instagram Badge]([https://img.shields.io/badge/@FARHOD-MERN-2CA5E0?style=flat-square&logo=telegram&logoColor=white](https://media.istockphoto.com/id/1300810952/photo/icon-like-heart-on-instagram-social-media-concept.jpg?b=1&s=170667a&w=0&k=20&c=L9zDvi0jAz_aBtdOcLU4iJPBmTLMr304NKTmG6RFXdo=)&link=[https://t.me/sukhrobnuraliev](https://www.instagram.com/shuhratovich_uz/?next=%2F))](https://www.instagram.com/shuhratovich_uz/?next=%2F) 
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
