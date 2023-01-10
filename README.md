@@ -41,6 +41,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
-[![Farhod's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](#)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathletedev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="farhod-mern" /></a> </p>
+<!-- [![Farhod's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](#) -->
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mathletedev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="farhod-mern" /></a> </p>
