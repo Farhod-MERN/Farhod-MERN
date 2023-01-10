@@ -40,10 +40,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mathletedev&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathletedev&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-</div>
 
 [![Farhod's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](#)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhod-mern&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="farhod-mern" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathletedev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="farhod-mern" /></a> </p>
