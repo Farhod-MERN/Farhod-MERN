@@ -9,7 +9,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![Telegram Badge](https://img.shields.io/badge/@Farhod_shuhratovich-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Farhod_shuhratovich)](https://t.me/Farhod_shuhratovich) 
 [![Instagram Badge](https://img.shields.io/badge/-@shuhratovich_uz-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/shuhratovich_uz/)](https://www.instagram.com/shuhratovich_uz/)
 [![Facebook Badge](https://img.shields.io/badge/-@farhod_shuhrativich-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/farhod_shuhratovich/)](https://www.facebook.com/farhod_shuhratovich/) 
-
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Nodejs
@@ -29,18 +28,18 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Image](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Image](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Image](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farhod-mern&show_icons=true&theme=gotham" alt="farhod-mern" />
+[![Farhod's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhod-mern&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="farhod-mern" /></a> </p>
