@@ -1,4 +1,4 @@
-<h1 align="center">MERN STACK Developer</h1>
+<h1 align="center"><a href="https:farhod.vercel.app" style="text-decoration: none">MERN STACK Developer</a></h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
@@ -9,7 +9,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![Telegram Badge](https://img.shields.io/badge/@Farhod_shuhratovich-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Farhod_shuhratovich)](https://t.me/Farhod_shuhratovich) 
 [![Instagram Badge](https://img.shields.io/badge/-@shuhratovich_uz-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/shuhratovich_uz/)](https://www.instagram.com/shuhratovich_uz/)
 [![Facebook Badge](https://img.shields.io/badge/-@farhod_shuhrativich-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/farhod_shuhratovich/)](https://www.facebook.com/farhod_shuhratovich/) 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left"><a href="https:farhod.vercel.app" style="text-decoration: none">💻 About Me:</a></h2>
 
 - :computer: I'm currently working on Nodejs
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
