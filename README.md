@@ -44,3 +44,10 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <!-- [![Farhod's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](#) -->
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mathletedev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="farhod-mern" /></a> </p>
+
+<p align="center"><a href=#><img src="contributions.svg"></a></p>
+
+<p align="center"> 
+  Visitor's count: <br>
+  <img src="https://profile-counter.glitch.me/Farhod-MERN/count.svg" />
+</p>
