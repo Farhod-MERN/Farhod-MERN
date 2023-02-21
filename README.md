@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://farhod.vercel.app/" style="text-decoration: none, color:#00EF07">MERN STACK Developer</a></h1>
+<h2 align="center"><a href="https://farhod.vercel.app/" style="text-decoration: none, color:#00EF07">MERN STACK Developer</a></h2>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
