@@ -1,6 +1,6 @@
 <h2 align="center"><a href="https://farhod.vercel.app/" style="text-decoration: none, color:#00EF07">MERN STACK Developer</a></h2>
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BE02&width=435&lines=Hi+%2C+I'm++Farhod;I'm+from+Uzbekistan;I+am+a+mern-stack+software+engineer+)](https://git.io/typing-svg)
 
 I am a mern-stack software engineer specializing in building high load services, web applications, and systems using JavaScript, ReactJS and NodeJS. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
