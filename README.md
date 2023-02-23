@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://farhod.vercel.app/" style="text-decoration: none, color:#00EF07">MERN STACK Developer</a></h2>
+<h2 align="center"><a href="https://farhod.vercel.app/" style="text-decoration: none, color:#00EF07">Full Stack Developer</a></h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BE02&width=435&lines=Hi+%2C+I'm++Farhod;I'm+from+Uzbekistan;I+am+a+mern-stack+software+engineer+)](https://git.io/typing-svg)
 
